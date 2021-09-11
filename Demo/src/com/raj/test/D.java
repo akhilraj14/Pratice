@@ -6,5 +6,8 @@ public class D {
 		System.out.println("hi");
 
 	}
+	public  void add() {
+		System.out.println("adding");
+	}
 
 }
