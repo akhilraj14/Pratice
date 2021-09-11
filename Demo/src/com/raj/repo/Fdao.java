@@ -4,7 +4,7 @@ public class Fdao {
 
 	public static void main(String[] args) {
 	System.out.println("dao");
-
+System.out.println("just pull");
 	}
 
 }
