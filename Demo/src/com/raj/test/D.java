@@ -8,6 +8,11 @@ public class D {
 	public  void add() {
 		System.out.println("adding");
 	}
+	
+	public void sub()
+	{
+		System.out.println("sub");
+	}
 
 
 }
