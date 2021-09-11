@@ -7,4 +7,8 @@ public class OTP {
 		System.out.println("otp done");
 	}
 
+	public void sms()
+	{
+		System.out.println("sms");
+	}
 }
